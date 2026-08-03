@@ -29,6 +29,7 @@ app = FastAPI(
     description="Upload PCB images to detect manufacturing defects using YOLOv8",
     version="1.0.0",
     lifespan=lifespan,
+    docs_url="/docs",
 )
 
 
