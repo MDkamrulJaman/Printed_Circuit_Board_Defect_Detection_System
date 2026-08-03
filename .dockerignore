@@ -1,0 +1,35 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Git metadata
+.git/
+.gitignore
+
+# Local datasets and project data
+pcb-defect-dataset/
+data/
+mlruns/
+
+# Jupyter and notebooks
+notebooks/
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# IDE/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

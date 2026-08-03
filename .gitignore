@@ -1,0 +1,36 @@
+# Project data and local datasets
+pcb-defect-dataset/
+mlruns/
+notebook/frontend_images
+runs/detect
+# Model artifacts
+*.pt
+*.pth
+*.weights
+models/
+
+# Python environment
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDE and editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
