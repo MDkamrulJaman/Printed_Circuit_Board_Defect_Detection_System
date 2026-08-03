@@ -206,3 +206,30 @@ For project-related questions, model updates, or deployment support, contact the
 - Add training scripts for custom datasets
 - Add metrics visualization and reporting
 - Add authentication and request limits for production deployment
+
+
+## Citation
+
+```bibtex
+@article{ding2019tddnet,
+  title={TDD-net: a tiny defect detection network for printed circuit boards},
+  author={Ding, R. and Dai, L. and Li, G. and Liu, H.},
+  journal={CAAI Transactions on Intelligence Technology},
+  volume={4},
+  number={2},
+  pages={110--116},
+  year={2019},
+  doi={10.1049/trit.2019.0019}
+}
+
+@misc{jocher2026ultralyticsyolo26unifiedrealtime,
+  title={Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models},
+  author={Glenn Jocher and Jing Qiu and Mengyu Liu and Shuai Lyu and Fatih Cagatay Akyon and Muhammet Esat Kalfaoglu},
+  year={2026},
+  eprint={2606.03748},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  doi={10.48550/arXiv.2606.03748},
+  url={https://arxiv.org/abs/2606.03748}
+}
+```
