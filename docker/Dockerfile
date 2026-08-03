@@ -1,5 +1,4 @@
-FROM python:3.14-slim
-
+FROM python:3.10-slim
 WORKDIR /app
 
 ENV PYTHONDONTWRITEBYTECODE=1
